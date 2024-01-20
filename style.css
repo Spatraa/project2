@@ -1,0 +1,7 @@
+.container{
+    display: flex;  
+    justify-content: space-evenly;
+  }
+  #todoSection,#doneSection{
+    text-align: center;
+  }
